@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="WMCa53CEMi7K9Hnrynjo">
-    <mxGraphModel>
+    <mxGraphModel dx="874" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QbUHsXtKiqa6Tv_4acNO-1" value="Software Design Document" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbUHsXtKiqa6Tv_4acNO-5" value="- Authors and Reviewers&lt;div&gt;- Functional Description&lt;/div&gt;&lt;div&gt;- User Interface&lt;/div&gt;&lt;div&gt;- Goals and Milestones&lt;/div&gt;&lt;div&gt;- Prioritization&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="240" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
