@@ -7,8 +7,11 @@
         <mxCell id="QbUHsXtKiqa6Tv_4acNO-1" value="Software Design Document" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="20" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QbUHsXtKiqa6Tv_4acNO-5" value="- Authors and Reviewers&lt;div&gt;- Functional Description&lt;/div&gt;&lt;div&gt;- User Interface&lt;/div&gt;&lt;div&gt;- Goals and Milestones&lt;/div&gt;&lt;div&gt;- Prioritization&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="70" width="240" height="240" as="geometry" />
+        <mxCell id="QbUHsXtKiqa6Tv_4acNO-5" value="- Authors and Reviewers&lt;div&gt;- Functional Description&lt;/div&gt;&lt;div&gt;- User Interface&lt;/div&gt;&lt;div&gt;- Goals and Milestones&lt;/div&gt;&lt;div&gt;- Prioritization&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="30" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QbUHsXtKiqa6Tv_4acNO-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Idea:&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 20px; background-color: initial;&quot;&gt;Escape room creators network&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(28, 28, 28); font-family: Inter, sans-serif; white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;- Developing riddles and scenarios&lt;br&gt;- Generating riddle images using AI or designing them&lt;br&gt;- Allowing others to solve and rate the riddles&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="410" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
