@@ -13,6 +13,9 @@
         <mxCell id="QbUHsXtKiqa6Tv_4acNO-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Idea:&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 20px; background-color: initial;&quot;&gt;Escape room creators network&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(28, 28, 28); font-family: Inter, sans-serif; white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;- Developing riddles and scenarios&lt;br&gt;- Generating riddle images using AI or designing them&lt;br&gt;- Allowing others to solve and rate the riddles&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="410" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="QbUHsXtKiqa6Tv_4acNO-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Advanced features&lt;/h1&gt;&lt;p&gt;- Using Web3&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="330" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
